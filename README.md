@@ -6,4 +6,5 @@ The project focuses on efficiently analyzing white blood cell counts in blood sm
 ## How to Run the Code
 1. Upload the Leuko-finder.m code file and Leuko-finderdata file into MatLab.
 2. Run the Leuko-finder.m code.
-3. Input "Leuko-finderdata" or another data and hit enter.
+3. When "Enter WBC Blood Smear Folder Name:" appears enter Leuko-finderdata or another data set.
+4. Hit enter and wait for the images and tables to appear. 
